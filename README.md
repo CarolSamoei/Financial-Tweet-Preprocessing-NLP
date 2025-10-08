@@ -1,7 +1,7 @@
 # Financial-Tweet-Preprocessing-NLP
 Financial Tweet Preprocessing and NLP Analysis
 ## Project Overview
-This repository contains the solution for DSA6202: Unstructured Data Analytics - Assignment One, demonstrating core Natural Language Processing (NLP) techniques applied to real-world financial data. The primary objective is to transform raw, noisy tweet data from key financial influencers into a clean, structured format suitable for advanced tasks like Financial Sentiment Classification.
+This repository demonstrates the core Natural Language Processing (NLP) techniques applied to real-world financial data. The primary objective is to transform raw, noisy tweet data from key financial influencers into a clean, structured format suitable for advanced tasks like Financial Sentiment Classification.
 
 The notebook, financial_sentiment_nlp_analysis.ipynb, serves as a detailed, step-by-step guide and demonstration environment.
 
